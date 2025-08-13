@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #161616;
+}
+body > div{
+    background-color: #a6a6a6;
+    max-width: 736px;
+    margin-inline: auto;
+    margin-block: 64px;
+    padding: 40px;
+    border-radius: 24px;
+}
+
+div img{
+    width: 100%;
+    border-radius: 12px;
+    margin-bottom: 40px;
+}
+
+h1, h2,p, ol, ul{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h1{
+    font-size: 40px;
+    color:#312e2c;
+    line-height: 100%;
+    margin-bottom: 24px;
+
+}
+a{
+    color: rgb(106, 16, 145);
+}
